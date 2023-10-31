@@ -1,4 +1,3 @@
-
 # Hi there 👋
 Hi! I'm **Tung**, or you can call me **Toby**.<br>
 <!-- A computer science engineer from [HANOI University of Science and Technology](https://en.hust.edu.vn/) - Vietnam -->
@@ -33,6 +32,14 @@ Hi! I'm **Tung**, or you can call me **Toby**.<br>
     </td>
   </tr>
 </table>
+
+| <img src="https://github-readme-stats.vercel.app/api?username=Tung-ht&show_icons=true&theme=buefy" alt="flexbox" />  | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tung-ht&layout=compact&hide=html&theme=buefy" alt="flexbox" /> |
+| ------------- | ------------- |
+
+## 💳 Github Profile Summary Card
+| <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tung-ht&theme=vue" alt="flexbox" />  | <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tung-ht&" alt="Tung-ht" alt="flexbox" /> |
+| ------------- | ------------- |
+
 <!--
 **Tung-ht/Tung-ht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
