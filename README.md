@@ -20,8 +20,9 @@ Graduated from Global ICT - [HANOI University of Science and Technology](https:/
 
 ## Skills:
 <p align="center">
+Solid background in Computer Science concepts, Data Structures & Algorithms <br>
 Proficient: Linux, Git, Java, SpringBoot, Spring Security <br>
-Experienced: SpringMVC, Microservice, Docker, Nginx, ELK, Kafka, Redis <br> 
+Experienced: SpringCloud, SpringMVC, AWS, Microservice, Docker, Nginx, ELK stack, Kafka, Redis <br> 
 Knowledgeable: Prometheus, Grafana, Gitlab CI/CD  
 </p>
 
@@ -45,7 +46,7 @@ Knowledgeable: Prometheus, Grafana, Gitlab CI/CD
 <br><br>
 **Tung-ht/Tung-ht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.<br>
 Fun fact:
-- 👯 My graduation project has earned of total 17 stars
+- 👯 My graduation project has earned of total 17 stars.
 - 🌱 I’m currently practicing LeetCode and learning System Design
-- 😄 Pronouns: My Vietnamese name, “Tùng Hoàng Thọ” is pronounced as “toong huh-ang thaw".
+- 😄 Pronouns: My Vietnamese name, “Tùng Hoàng” is pronounced as “toong huh-ang".
 
