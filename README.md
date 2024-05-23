@@ -21,9 +21,9 @@ Graduated from Global ICT - [HANOI University of Science and Technology](https:/
 ## Skills:
 <p align="center">
 Solid background in Computer Science concepts, Data Structures & Algorithms <br>
-Proficient: Linux, Git, Java, SpringBoot <br>
-Experienced: Spring Security, SpringCloud, SpringMVC, AWS, Microservice, Docker, Nginx, ELK stack, Kafka, Redis <br> 
-Knowledgeable: Prometheus, Grafana, Gitlab CI/CD  
+Proficient: Java, Spring Framework, Git, Linux, SQL <br>
+Experienced: SQL tuning, Microservice, AWS, Docker, Nginx <br> 
+Knowledgeable: ELK stack, Kafka, Redis, Prometheus, Grafana, CI/CD  
 </p>
 
 <table style="width:100%;">
