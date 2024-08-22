@@ -1,6 +1,6 @@
 # Hi there 👋
 I'm **Tung**, or you can call me **Toby**. <br>
-Graduated from Global ICT - [HANOI University of Science and Technology](https://en.hust.edu.vn/) - Vietnam, I have about 3+ years of experience in software development, specializing in backend, Java, and Spring Boot.<br>
+Graduated from IT-E7, Global ICT - [HANOI University of Science and Technology](https://en.hust.edu.vn/) - Vietnam, I have about 3+ years of experience in software development, specializing in backend, Java, and Spring Boot.<br>
 
 ## 📫 Contact me at:
 <p align="center">
